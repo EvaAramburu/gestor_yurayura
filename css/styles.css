@@ -10,7 +10,31 @@ body {
   grid-template-columns: auto auto;
   grid-template-rows: 10% 80% 10%;
 }
+  
+.nav {
+  grid-column: 1/3;
+  overflow: hidden;
+  background-color: #143F6B;
+}
 
+.nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav a:hover {
+  background-color: rgb(172, 37, 37);
+  color: black;
+}
+
+.topnav a.active {
+  background-color: rgb(172, 37, 37);
+  color: white;
+}
 
 .main {
     grid-column: 1/3;
@@ -18,4 +42,3 @@ body {
     background-image: url(/pictures/fondo\ 4.png);
     background-size: contain;
   }
-  
