@@ -1,0 +1,21 @@
+footer {
+    grid-column: 1/3;
+    background-color: rgb(172, 37, 37);
+    padding: 1.25rem;
+  }
+  
+  .share {
+    float:left; 
+  }
+  
+  .language {
+    float:right;
+  }
+  
+  @media (max-width: 53.75rem) {
+    .main {
+      background-size: cover; 
+    }
+  
+  
+  }
