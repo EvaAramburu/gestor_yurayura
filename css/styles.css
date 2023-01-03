@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Jua';
+    src: url(/fonts/Jua-Regular.ttf);
+  }
+  
+body {
+  width: 100vw;
+  height: 100vh;
+  display: grid; 
+  grid-template-columns: auto auto;
+  grid-template-rows: 10% 80% 10%;
+}
+
+
+.main {
+    grid-column: 1/3;
+    grid-row: 2/3;
+    background-image: url(/pictures/fondo\ 4.png);
+    background-size: contain;
+  }
+  
