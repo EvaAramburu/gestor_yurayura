@@ -1,0 +1,21 @@
+body {
+    background-image: url(/pictures/fondo\ 4.png);
+    background-size: cover; 
+}
+
+h1 {
+    text-align: center;
+    color: 
+}
+
+h3 {
+    text-align: center;
+}
+
+.introTori {
+    height: 31.25rem;
+    width: auto;
+    justify-content: center;
+    display: flex; 
+    justify-content: center;
+}
