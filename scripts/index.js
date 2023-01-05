@@ -4,6 +4,7 @@ const table = document.getElementById('table');
 let submit = document.getElementById('submit');
 submit.addEventListener('click', addInput);
 
+
 // Input addition
 function addInput(){
 

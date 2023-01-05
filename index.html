@@ -42,19 +42,19 @@
       
     <div class="main"> 
         <div> 
-            <form id="mForm"> 
+            <form name="mForm"> 
                 <label for="nInput">First name</label>
-                <input class="content" type="text" id="nInput" placeholder="Type name" autofocus    required><br>
+                <input class="content" type="text" id="nInput" placeholder="Type name" autofocus><br>
                 <label for="lInput">Last name</label>
-                <input class="content" type="text" id="lInput" placeholder="Type last name"     required><br>
-                <label for="bYear">Birthyear</label>
-                <input class="content" type="text" id="bYear" placeholder="Type birthyear"><br> 
+                <input class="content" type="text" id="lInput" placeholder="Type last name"><br>
+                <label for="bYear">Birtday</label>
+                <input class="content" type="date" id="bYear" placeholder="Type birthyear"><br> 
                 <label for="inst">Instructor</label>
                 <input class="content" type="text" id="inst" placeholder="Type instructor's name" ><br> 
             </form>
 
             <div class="buttonSection">
-                <button id="submit" class="buttons"> Submit </button>
+                <input id="submit" type="submit" class="buttons" value="Submit"> 
                 <button id="load" class="buttons"> Load list </button>
                 <button id="gen" class="buttons"> Generate list </button>
             </div>
