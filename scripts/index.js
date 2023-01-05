@@ -27,11 +27,6 @@ function addInput(){
     
     let dltButton = document.createElement('div');
     dltButton.className= 'dltIcon';
-    // let dltButtonText = document.createElement('p');
-    // dltButton.id= 'dltButton'; 
-    // dltButton.className= 'buttons';
-    // // dltButton.textContent= 'Delete';
-    // dltButtonText.textContent= 'Delete';
 
     row.appendChild(fName);
     row.appendChild(lName);
@@ -41,7 +36,6 @@ function addInput(){
     dlt.appendChild(dltButton);
 
     table.appendChild(row);
-
 
     document.getElementById('nInput').value="";
     document.getElementById('lInput').value="";
@@ -58,4 +52,3 @@ function addInput(){
     }
 
 }
-
