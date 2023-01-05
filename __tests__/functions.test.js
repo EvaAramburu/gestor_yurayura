@@ -1,3 +1,4 @@
+// Importar la función 
 import { beTrue } from '../src/scripts/functions'; 
 
 test("should return true", () => {
