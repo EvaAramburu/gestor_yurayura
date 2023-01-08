@@ -45,3 +45,13 @@ Consignas optativas:
 
 CÓMO USAR EL GESTOR DE LISTAS YURA-YURA
 
+Bienvenido a la aplicación de gestión de listas "Yura-yura". Este es un servicio ofrecido por la empresa Easy Resources, y que pretende complementar la herramienta de ruleta de la fortuna original "Yura-yura". 
+
+Esta aplicación permite administrar fácilmente elementos o personal de cualquier sector a través de un formulario donde el usuario puede introducir los datos de estudiantes, instructores, trabajadores, etc; Estos datos son trasladados inmediatamente a una tabla que se ubica justo al lado del formulario, lo que permite al usuario contar con un apoyo visual para su labor de gestión. Además, la organización de datos en tabla cuenta con un botón de "eliminar entrada" que permite seleccionar y eliminar de la tabla las filas que hayan quedado obsoletas o erróneas. 
+
+El gestor de listas "Yura-yura" cuenta con diseño responsive para teléfono móvil y respeta la gama de colores y el concepto de la aplicación ruleta de la fortuna, ofreciendo una continuidad en el diseño y estética de nuestra gama de recursos "Yura-yura". 
+
+Como siempre, el gestor de listas "Yura-yura" busca brillar por su simplicidad y su adaptabilidad a cualquier tipo de contexto y usuario. Por ello, los valores predeterminados de la tabla pueden modificarse bajo demanda del cliente. 
+
+Gracias por confiar en nosotros y usar "Yura-yura"
+
