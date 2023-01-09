@@ -52,3 +52,7 @@ function addInput(){
     }
 
 }
+
+// 1 Recoger inputs e introducirlos en un objeto (tabla)
+// 2 Crear el elemento HTML y que tendrá el objeto creado en la primera función => 
+// 3 Printar el elemento en pantalla 
